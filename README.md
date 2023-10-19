@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm DevBen</h1>
 <img align="left" src="https://wallpapercave.com/dwp1x/wp12335575.jpg" width="100%"/>
+&nbsp;
 <h3 align="center">Front-end dev 💡 building the future of the web 🌐, one pixel at a time 🖥️,  making it look good 😎 and more accessible for everyone 👩‍ tech 👨‍ tech. The web is for everyone 🌈, and I'm here to make it shine ✨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-create-devben&label=Profile%20views&color=0e75b6&style=flat" alt="git-create-devben" /> </p>
@@ -32,6 +33,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/benlad636v"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="benlad636v" /></a></p><br><br>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-create-devben&show_icons=true&locale=en&layout=compact" alt="git-create-devben" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-create-devben&show_icons=true&locale=en&layout=compact" alt="git-create-devben" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-create-devben&show_icons=true&locale=en" alt="git-create-devben" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-create-devben&" alt="git-create-devben" /></p>
