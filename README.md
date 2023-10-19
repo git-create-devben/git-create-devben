@@ -1,5 +1,5 @@
 <body color="red">
-  <img src="file:///C:/Users/user/OneDrive/Documents/Downloads/Untitled%20design.png" width="100%"/>
+  <img src="/Designer.png" width="100%"/>
 &nbsp;
 <h1 align="center">Hi 👋, I'm DevBen</h1>
 &nbsp;
