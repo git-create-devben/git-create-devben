@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm DevBen</h1>
-<img src="https://wallpapercave.com/dwp1x/wp11364771.jpg" width="100%"/>
-<h3 align="center">Front-end dev 💡 building the future of the web 🌐, one pixel at a time 🖥️, making it look good 😎 and more accessible for everyone 👩‍ tech 👨‍ tech. The web is for everyone 🌈, and I'm here to make it shine ✨.</h3>
 
+<img src="https://wallpapercave.com/dwp1x/wp11364771.jpg" width="100%"/>
+&nbsp;
+<h1 align="center">Hi 👋, I'm DevBen</h1>
+&nbsp;
+<h3 align="center">Front-end dev 💡 building the future of the web 🌐, one pixel at a time 🖥️, making it look good 😎 and more accessible for everyone 👩‍ tech 👨‍ tech. The web is for everyone 🌈, and I'm here to make it shine ✨.</h3>
+&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-create-devben&label=Profile%20views&color=0e75b6&style=flat" alt="git-create-devben" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-create-devben" alt="git-create-devben" /></a> </p>
