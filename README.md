@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DevBen</h1>
-<img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="100%"/>
+<video src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="100%"/>
 <h3 align="center">Front-end dev 💡 building the future of the web 🌐, one pixel at a time 🖥️, making it look good 😎 and more accessible for everyone 👩‍ tech 👨‍ tech. The web is for everyone 🌈, and I'm here to make it shine ✨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-create-devben&label=Profile%20views&color=0e75b6&style=flat" alt="git-create-devben" /> </p>
