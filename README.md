@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DevBen</h1>
-<img align="center" src="[https://wallpapercave.com/fuwp/uwp3981824.jpeg](https://wallpapercave.com/dwp1x/wp12335575.jpg)" width="100%"/>
+<img align="left" src="https://wallpapercave.com/fuwp/uwp3981824.jpeg](https://wallpapercave.com/dwp1x/wp12335575.jpg" width="100%"/>
 <h3 align="center">Front-end dev 💡 building the future of the web 🌐, one pixel at a time 🖥️, <br/> making it look good 😎 and more accessible for everyone 👩‍ tech 👨‍ tech. The web is for everyone 🌈, and I'm here to make it shine ✨.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-create-devben&label=Profile%20views&color=0e75b6&style=flat" alt="git-create-devben" /> </p>
