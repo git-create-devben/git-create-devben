@@ -5,7 +5,9 @@
 &nbsp;
 <h3 align="center">Front-end dev 💡 building the future of the web 🌐, one pixel at a time 🖥️, making it look good 😎 and more accessible for everyone 👩‍ tech 👨‍ tech. The web is for everyone 🌈, and I'm here to make it shine ✨.</h3>
 &nbsp;
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+<br><br> Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-create-devben&label=Profile%20views&color=0e75b6&style=flat" alt="git-create-devben" /> </p>
 
@@ -17,7 +19,7 @@
 
 - 🌱 I’m currently learning **NextJS and React Native**
 
-- 👨‍💻 All of my projects are available at [Working on it](Working on it)
+- 👨‍💻 All of my projects are available at [Working on]
 
 - 💬 Ask me about **Typescript, JavaScript**
 
