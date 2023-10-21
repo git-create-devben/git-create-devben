@@ -1,4 +1,4 @@
-<body color="red">
+<div align="center" width="50">
   <img src="/Designer.png" width="100%"/>
 &nbsp;
 <h1 align="center">Hi 👋, I'm DevBen</h1>
@@ -7,25 +7,47 @@
 &nbsp;
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([https://open.spotify.com/user/somnathpaul](https://open.spotify.com/user/31q4oxvmbtkl77b6hjhoojofehgm)) <br>
   
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-create-devben&label=Profile%20views&color=0e75b6&style=flat" alt="git-create-devben" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-create-devben" alt="git-create-devben" /></a> </p>
+<div align="center" >
+<a  href="https://github.com/SP-XD">
 
-<p align="left"> <a href="https://twitter.com/benlad_1" target="blank"><img src="https://img.shields.io/twitter/follow/benlad_1?logo=twitter&style=for-the-badge" alt="benlad_1" /></a> </p>
+<img src="https://raw.githubusercontent.com/git-create-devben/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/git-create-devben/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/git-create-devben/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-- 🔭 I’m currently working on **Wallpy**
+</a>
 
-- 🌱 I’m currently learning **NextJS and React Native**
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/git-create-devben/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
-- 👨‍💻 All of my projects are available at [Working on]
+</details>
+  
+<hr></hr>
 
-- 💬 Ask me about **Typescript, JavaScript**
+**Code Cycle**<br>
 
-- 📫 How to reach me **benlad636@gmail.com**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
-- ⚡ Fun fact **I love doing all this: Table tennis, singing, joking**
+
+
+
+</div>
+
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently working on  **Wallpy**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm currently learning **NextJS**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Web, Mobile, movie, sport, news, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[DEV⚡BEN](https://t.me/devbentech)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,5 +61,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/benlad636v"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="benlad636v" /></a></p><br><br>
 
-</body>
 
