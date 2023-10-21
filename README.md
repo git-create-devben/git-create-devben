@@ -5,28 +5,12 @@
 &nbsp;
 <h3 align="center">Front-end dev 💡 building the future of the web 🌐, one pixel at a time 🖥️, making it look good 😎 and more accessible for everyone 👩‍ tech 👨‍ tech. The web is for everyone 🌈, and I'm here to make it shine ✨.</h3>
 &nbsp;
-<br><br> Vibing to : 🎧  </strong></p>
+<!-- <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://novatorem-git-main-benlad636-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/31q4oxvmbtkl77b6hjhoojofehgm) <br>
   
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=git-create-devben&label=Profile%20views&color=0e75b6&style=flat" alt="git-create-devben" /> </p>
-
-<div align="center" >
-<a  href="https://github.com/SP-XD">
-
-<img src="https://raw.githubusercontent.com/git-create-devben/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/git-create-devben/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/git-create-devben/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/git-create-devben/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
-
-</details>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-create-devben&label=Profile%20views&color=0e75b6&style=flat" alt="git-create-devben" /> </p> -->
   
 <hr></hr>
 
