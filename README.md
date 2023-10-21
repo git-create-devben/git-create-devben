@@ -7,7 +7,7 @@
 &nbsp;
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)]([https://open.spotify.com/user/somnathpaul](https://open.spotify.com/user/31q4oxvmbtkl77b6hjhoojofehgm)) <br>
+[![Spotify](https://novatorem-git-main-benlad636-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/31q4oxvmbtkl77b6hjhoojofehgm) <br>
   
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-create-devben&label=Profile%20views&color=0e75b6&style=flat" alt="git-create-devben" /> </p>
