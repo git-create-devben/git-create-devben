@@ -5,6 +5,7 @@
 &nbsp;
 <h3 align="center">Front-end dev 💡 building the future of the web 🌐, one pixel at a time 🖥️, making it look good 😎 and more accessible for everyone 👩‍ tech 👨‍ tech. The web is for everyone 🌈, and I'm here to make it shine ✨.</h3>
 &nbsp;
+
 <!-- <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://novatorem-git-main-benlad636-gmailcom.vercel.app/api/spotify)](https://open.spotify.com/user/31q4oxvmbtkl77b6hjhoojofehgm) <br>
@@ -31,7 +32,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm currently learning **NextJS**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Web, Mobile, movie, sport, news, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[DEV⚡BEN](https://t.me/devbentech)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: **The human brain contains about 100 billion neurons**.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
