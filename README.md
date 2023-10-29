@@ -46,5 +46,6 @@
 [![An image of @benlad636's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/benlad636)](https://holopin.io/@benlad636)
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/benlad636v"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="benlad636v" /></a></p><br><br>
-
-
+<!-- <a href="https://visitcount.itsvg.in" align="left">
+  <img src="https://visitcount.itsvg.in/api?id=git-create-devben&label=Profile%20Views&pretty=true" />
+</a> -->
